@@ -72,4 +72,4 @@ Better representation in chimera in progress ...
 
 Please try the test in JWalk/Examples/
 
-Happy crosslinking !
+Happy crosslinking!
