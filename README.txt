@@ -1,5 +1,5 @@
 #===============================================================================
-#     This file is part of Jwalk.
+#     This file is part of Jwalk. IAM GOING TO ADD SOME RANDOM TEXT AND MERGE IT !!!
 #     
 #     Jwalk - A tool to calculate the solvent accessible surface distance (SASD) 
 #     between crosslinked residues.
